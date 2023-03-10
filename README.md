@@ -2,9 +2,11 @@
 
   ## Description
 
-  This is a simple app built with React and using Redux to manage state.  It is currently a work in progress...more to come!
+  This is a simple app built with React and using Redux to manage state.  The app allows users to add cars and the car's cost, search for cars that have been added, and delete cars.  The total cost of all cars is displayed and updated as user adds/deletes cars, or if the list is filtered by search term.
   
   Screenshot of app:
+
+  ![app screenshot](./screenshot.png)
 
   
   ## Table of Contents
